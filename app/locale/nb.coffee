@@ -56,7 +56,7 @@ module.exports = nativeDescription: "Norsk Bokmål", englishDescription: "Norweg
     coming_soon: "Kommer snart!"
     courses_available_in: "Kurs er tilgjengelig i JavaScript og Python. Webutviklingskurs lærer bort HTML, CSS, jQuery, og Bootstrap."
     boast: "Løse gåter som er tilstrekkelig kompliserte til å både fascinere spillere og kodere."
-#    winning: "A winning combination of RPG gameplay and programming homework that pulls off making kid-friendly education legitimately enjoyable."
+    winning: "En super kombinasjon av RPG gaming og læring av koding som lykkes i å gjøre utdanning morsomt."
     run_class: "Alt du trenger for å drive programmeringsundervisning på din skole idag, ingen utdanning nødvendig."
     goto_classes: "Gå til klassene mine"
     view_profile: "Vis profilen min"
@@ -711,7 +711,7 @@ module.exports = nativeDescription: "Norsk Bokmål", englishDescription: "Norweg
     feature_heroes: "Lås opp eksklusive helter"
     feature_games: "Lag spill for vennene dine"
     feature_websites: "Lag websider og apper"
-#    feature_items: "Equip more powerful items"
+    feature_items: "Ta på kraftigere utstyr"
 #    month_price: "$__price__/mo"
     lifetime: "Livstidsabonnement"
 #    lifetime_price: "$__price__"
@@ -722,7 +722,7 @@ module.exports = nativeDescription: "Norsk Bokmål", englishDescription: "Norweg
     support_part1: "Trenger du hjelp til betalingsalternativer? Email"
     support_part2: "support@codecombat.com"
     support_part3: "hvis du har spørsmål."
-#    you_are_purchasing_year_sub: "Du kjøper et ett års Premium abonnement!"
+    you_are_purchasing_year_sub: "Du kjøper et ett års Premium abonnement!"
     you_are_purchasing_lifetime_sub: "Du kjøper et livsvarig Premium abonnement!"
     you_will_be_charged: "Du vil bli belastet $__priceString__ én gang."
     choose_payment_method: "Velg betalingsmetode"
@@ -771,11 +771,11 @@ module.exports = nativeDescription: "Norsk Bokmål", englishDescription: "Norweg
     wallOfDarkness_name: "Mørkets vegg"
     wallOfDarkness_description: "Gjem deg bak en skyggefull vegg for å unngå å bli oppdaget av søkende blikk."
 
-#  premium_features:
+  premium_features:
 #    get_premium: "Get<br>CodeCombat<br>Premium" # Fit into the banner on the /features page
-#    master_coder: "Become a Master Coder by subscribing today!"
-#    subscribe_now: "Subscribe Now"
-#    hero_blurb_1: "Get access to __premiumHeroesCount__ super-charged subscriber-only heroes! Harness the unstoppable power of Okar Stompfoot, the deadly precision of Naria of the Leaf, or summon \"adorable\" skeletons with Nalfar Cryptor."
+    master_coder: "Bli en mester i å kode ved å abonnere idag!"
+    subscribe_now: "Abonnere nå"
+    hero_blurb_1: "Få tilgang til __premiumHeroesCount__ ekstra kraftige, kun for abonnenter, helter! Ta i bruk den ustoppelige Okar Stompfoot, den dødelige presisjonen til Naria of the Leaf eller hent \"søte\" skjeletter med Nalfar Cryptor."
 #    hero_blurb_2: "Premium Warriors unlock stunning martial skills like Warcry, Stomp, and Hurl Enemy. Or, play as a Ranger, using stealth and bows, throwing knives, traps! Try your skill as a true coding Wizard, and unleash a powerful array of Primordial, Necromantic or Elemental magic!"
 #    hero_caption: "Exciting new heroes!"
 #    pet_blurb_1: "Pets aren't just adorable companions, they also provide unique functionality and methods. The Baby Griffon can carry units through the air, the Wolf Pup plays catch with enemy arrows, the Cougar is fond of chasing ogres around, and the Mimic attracts coins like a magnet!"
